@@ -5,7 +5,7 @@
 ![Data: Open Access](https://img.shields.io/badge/Data-Open_Access-blue)
 
 ## 🌌 Vision & Philosophy
-Human knowledge is a continuous flow. This project was created with profound humility in the face of the infinity of time, space, and human history. It serves as an open archive where I aggregate my economic datasets, research summaries, and unfinished "seed ideas." 
+Human knowledge is a continuous flow. This project was created with profound humility in the face of the infinity of time, space, and human history. It serves as an open archive where I aggregate my economic datasets, research summaries, and unfinished seed ideas. 
 
 The ultimate purpose of this repository is not to provide absolute conclusions, but to lay down foundational bricks. It is my sincere hope that future generations of researchers can access, modify, perfect, and continue the journey that I could not complete within the limits of a single lifetime.
 
